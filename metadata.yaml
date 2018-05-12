@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25550
     wikipedia: http://en.wikipedia.org/wiki/Tyrone_Power_%281795-1841%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22796#Impressions-of-AmericaDuring-the-years-1833-1834-and-1835.-In-Two-Volumes-Volume-I.
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-09-28'
 gutenberg_type: Text
